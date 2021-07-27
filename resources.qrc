@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/img.jpg</file>
+    </qresource>
+    <qresource prefix="/accounts">
+        <file>accounts/Registered/registered.txt</file>
+        <file>accounts/aliarman.txt</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>accounts/test.txt</file>
+    </qresource>
+</RCC>
